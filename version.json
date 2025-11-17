@@ -1,6 +1,5 @@
 {
-  "latest_version": "3.5.0",
-  "update_url": "",
-  "silent": true,
-  "notes": "First update system initialized."
+    "latest_version": "3.5.0",
+    "update_zip_url": "https://github.com/AymanSami56/ayman-autoclicker-update/releases/latest/download/update.zip",
+    "notes": "✓ تحسينات في الأداء\n✓ دعم التحديث الصامت\n✓ إصلاحات عامة"
 }
