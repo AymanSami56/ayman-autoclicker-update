@@ -1,6 +1,6 @@
 {
   "latest_version": "3.5.0",
-  "update_zip_url": "https://github.com/AymanSami56/ayman-autoclicker-update/releases/latest/download/update.zip",
-  "download_url": "https://github.com/AymanSami56/ayman-autoclicker-update/releases/latest/download/AymanAutoClickerSetup.exe",
-  "notes": "✓ تحسينات في الأداء\\n✓ دعم التحديث الصامت الكامل\\n✓ تحديثات في التصميم\\n✓ إصلاحات متنوعة"
+  "notes": "إصلاحات — تحسين واجهة الصفحة المتقدمة — دعم تحديث صامت.",
+  "update_zip_url": "https://activation-server-1393.onrender.com/files/update.zip",
+  "download_url": "https://activation-server-1393.onrender.com/files/AymanAutoClickerSetup.exe"
 }
