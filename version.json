@@ -1,6 +1,6 @@
 {
-  "latest_version": "3.5.1",
-  "notes": "إصلاحات — تحسين واجهة الصفحة المتقدمة — دعم تحديث صامت.",
-  "update_zip_url": "https://activation-server-1393.onrender.com/files/update.zip",
-  "download_url": "https://activation-server-1393.onrender.com/files/AymanAutoClickerSetup.exe"
+    "latest_version": "3.5.1",
+    "update_zip_url": "https://raw.githubusercontent.com/AymanSami56/ayman-autoclicker-update/main/update.zip",
+    "download_url": "https://github.com/AymanSami56/ayman-autoclicker-update/releases/latest",
+    "notes": "تحسينات مهمة في نظام التفعيل وإصلاح أخطاء الواجهة وزيادة الاستقرار."
 }
