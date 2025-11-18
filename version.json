@@ -1,6 +1,5 @@
 {
-    "latest_version": "3.5.5",
-    "update_zip_url": "https://raw.githubusercontent.com/AymanSami56/ayman-autoclicker-update/main/update.zip",
-    "download_url": "https://github.com/AymanSami56/ayman-autoclicker-update/releases/latest",
-    "notes": "تحسينات في نظام التفعيل، إصلاح أخطاء في الواجهة الرسومية، وزيادة الثبات في محرّك النقر."
+  "version": "3.5.6",
+  "url": "https://raw.githubusercontent.com/AymanSami56/ayman-autoclicker-update/main/update.zip",
+  "changelog": "• إصلاح مشكلة SSL\n• تحسين نظام التفعيل\n• تحديثات في الأداء\n• تحسين واجهة المستخدم"
 }
